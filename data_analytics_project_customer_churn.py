@@ -57,3 +57,5 @@ Customer churn happens for a variety of reasons, but the most common ones includ
 
 import pandas as pd
 import numpy as np
+
+data = 10
