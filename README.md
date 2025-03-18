@@ -13,7 +13,9 @@ Tech Stack
 Python: For data processing and modeling.
 Pandas: For data manipulation and exploratory analysis.
 Scikit-learn: For machine learning models such as logistic regression, decision trees, and random forests.
-Power BI / Tableau: For data visualization and reporting insights to stakeholders.
+Power BI : For data visualization and reporting insights to stakeholders.
+
+
 Workflow
 Data Collection & Preprocessing:
 
@@ -33,7 +35,7 @@ Predicting high-risk customers.
 Providing actionable insights to reduce churn (e.g., offering discounts, better customer service).
 Dashboard & Reporting:
 
-Using Power BI/Tableau to visualize trends and predictions.
+Using Power BI to visualize trends and predictions.
 Enabling decision-makers to act on insights.
 Business Impact
 Reduced customer churn rates.
